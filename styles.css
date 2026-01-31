@@ -1,0 +1,9 @@
+body {
+  padding: 25px;
+  text-align: center;
+  font-family: Monaco, Monospace;
+}
+button {
+  display: block;
+  margin: 0 auto;
+}
